@@ -1,4 +1,4 @@
-const cookieName = '什么值得买'
+const cookieName = 'smzdm'
 const cookieKey = 'chavy_cookie_smzdm'
 const cookieVal = $request.headers['Cookie']
 
